@@ -222,7 +222,7 @@ footer h3 {
   .toggle-btn {
     display: block;
     position: fixed;
-    top:30px;
+    top:20px;
     right: 30px;
     width: 30px;
     height: 30px;
@@ -266,7 +266,7 @@ footer h3 {
   }
 
   main {
-    margin-top: 80px;
+    margin-top: 60px;
   }
 
   .consept-container {
